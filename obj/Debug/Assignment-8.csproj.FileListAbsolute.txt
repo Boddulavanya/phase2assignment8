@@ -1,0 +1,13 @@
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\bin\Debug\Assignment-8.exe.config
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\bin\Debug\Assignment-8.exe
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\bin\Debug\Assignment-8.pdb
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\bin\Debug\EntityFramework.dll
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\bin\Debug\EntityFramework.SqlServer.dll
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\bin\Debug\EntityFramework.xml
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\bin\Debug\EntityFramework.SqlServer.xml
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\obj\Debug\Assignment-8.csproj.AssemblyReference.cache
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\obj\Debug\Assignment-8.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\obj\Debug\Assignment-8.csproj.CoreCompileInputs.cache
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\obj\Debug\Assignment-8.csproj.CopyComplete
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\obj\Debug\Assignment-8.exe
+D:\simplilearn\phase2\day-8\Assignment-8\Assignment-8\obj\Debug\Assignment-8.pdb
